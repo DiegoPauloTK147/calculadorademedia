@@ -1,0 +1,47 @@
+.organizeItens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:blueviolet;
+}
+
+.botao {
+    background-color: rgb(89, 0, 255);
+    color: aliceblue;
+    padding: 10px;
+    margin: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.campodenota {
+    margin: 10px;
+    padding: auto;
+
+}
+
+.resultadoOrganizado {
+    display: grid;
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    padding: 8px;    
+}
+
+.calculadora {
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    height: 500px;
+    width: 400px;
+
+border-radius: 20px;
+}
+.titulo {
+    color: aliceblue;
+    padding: 5PX;
+}
